@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url(puppies-cover-1280x720.jpg);
+    background-position: center;
+    height: 500px;
+    background-size: cover;
+  }
